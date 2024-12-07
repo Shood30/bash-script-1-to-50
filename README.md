@@ -8,3 +8,4 @@ do
 done
 
 Used GIT for Windows to test print_numbers.sh
+Test worked and printed 1 to 50
