@@ -9,3 +9,4 @@ done
 
 Used GIT for Windows to test print_numbers.sh
 Test worked and printed 1 to 50
+used cp command to copy print_numbers.sh into print_numbers.txt
